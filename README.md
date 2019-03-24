@@ -1,5 +1,5 @@
-ANANDASUNDARARAMAN.S
-
+title: ANANDASUNDARARAMAN.S
+description:
 Mobile -+91–9884856266     
 Flat no -C, Ground floor,     
 Shivayan Apartment,           
@@ -8,11 +8,8 @@ Baguiati
 Kolkata -700059              
 Email id: asura22nov@gmail.com
 
-</head>
 
-<body>
 PROFESSIONAL SUMMARY
-
                                                                          
 Energy And IT Professional having 5+ years on IT Consulting on Energy Domain.                                                                                                                                               
 Experience in Data Acquisition System (DAS), Machine-to-Machine (M2M) Communication and Energy Management Solutions (EMS) including System Architecture, Hardware and Software solutions.                                   
