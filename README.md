@@ -1,5 +1,5 @@
-title: ANANDASUNDARARAMAN.S
-description:
+ANANDASUNDARARAMAN.S
+
 Mobile -+91–9884856266     
 Flat no -C, Ground floor,     
 Shivayan Apartment,           
@@ -20,10 +20,10 @@ IT Networking - Protocols (HTTP, FTP, SSH), Domain and Hosting Service Administr
 
 EXPERIENCE OVERVIEW
 
-Organization #1: Idam Infrastructure Advisory Pvt. Ltd., New Delhi				
-Duration: July 2017 to Present (1.6 Years)                                      
-Designation: Consultant                                                         
-Deputation: IoT - Product Development - Enfragy Solutions India Pvt Ltd, Kolkata 
+Organization #1 : Idam Infrastructure Advisory Pvt. Ltd., New Delhi				
+Duration        : July 2017 to Present (1.6 Years)                                      
+Designation     : Consultant                                                         
+Deputation      : IoT - Product Development - Enfragy Solutions India Pvt Ltd, Kolkata 
 
 
 Job Responsibility
@@ -36,9 +36,9 @@ USAID’s Project on National Centralized Monitoring Center (NCMC) for Solar Roo
 
 
 
-Organization #2: OPG Power Generation Ltd (2 x 77MW, 1 x 80MW), Chennai
-Duration: March 2014 to May 2015 (1 year 2 Months)                     
-Designation: Engineer-Operations                                       
+Organization #2 : OPG Power Generation Ltd (2 x 77MW, 1 x 80MW), Chennai
+Duration        : March 2014 to May 2015 (1 year 2 Months)                     
+Designation     : Engineer-Operations                                       
 
 
 Job Responsibility
@@ -48,9 +48,9 @@ Monitoring Plant Parameters, equipment changeover schedules and coordination wit
 
 
 
-Organization #3: Wipro Technologies Ltd.            
-Duration: February 2010 to February 2013 (3 Years)  
-Designation: Project Engineer.                      
+Organization #3 : Wipro Technologies Ltd.            
+Duration        : February 2010 to February 2013 (3 Years)  
+Designation     : Project Engineer.                      
 
 
 Job Responsibility
@@ -75,13 +75,11 @@ Performing Energy audit on TERI University campus with Zenatix smart metering sy
 EDUCATIONAL QUALIFICATION
 
 Post-Graduation: Completed my M. Tech in Renewable Energy Engineering and Management in the year 2017 with 7.89 CGPA from The Energy and Resource Institute (TERI University), New Delhi.
-PG Diploma: Completed my Post Graduate Diploma in Thermal Power Plant Engineering in the year 2014 with 81% at National Power Training Institute (NPTI – SR), Neyveli, Tamil Nadu.       
+
+PG Diploma: Completed my Post Graduate Diploma in Thermal Power Plant Engineering in the year 2014 with 81% at National Power Training Institute (NPTI – SR), Neyveli, Tamil Nadu. 
+
 Under Graduation: completed my B.E in Electrical and Electronics Engineering in the year 2009 with 80% aggregate at Velammal Engineering College, Chennai.                               
 
 
 DECLARATION
-I hereby declare that the information stated are true and correct to the best of my knowledge.
-
-DATE:
-
-ANANDASUNDARARAMAN.S        
+I hereby declare that the information stated are true and correct to the best of my knowledge.   
